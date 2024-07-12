@@ -1,4 +1,4 @@
-# Writing-Test-pecifications
+# Writing-Test-specifications
 Writing Test Specifications
 
 A function called "multiplication" that returns the product of the two input numbers.
